@@ -1,0 +1,7 @@
+title: "Graph"
+remote_theme: pmarsceill/just-the-docs
+logo: https://www.psr-inc.com/wp-content/themes/psrNew/favicon.png
+
+aux_links:
+  "Graph documentation on GitHub":
+    - "https://github.com/psrenergy/graph-docs"
