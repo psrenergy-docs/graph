@@ -69,7 +69,7 @@ The steps are listed below:
     <img src="images\getting_started\OpenPSRIO.png" width="400"/>
 </div>
 
- 2. Write, save and run the script for the processing
+2. Write, save and run the script for the processing
 
 <div style="text-align:center">
     <img src="images\getting_started\RunPSRIO.png" width="450"/>
@@ -88,7 +88,7 @@ Note that we created a file named `total_gerter.csv`. `total_gerter` will be the
 The final result looks like this:
 
 <div style="text-align:center">
-    <img src="images\getting_started\FinalResult.png" width="800"/>
+    <img src="images\getting_started\CustomPSRIOVar_v2.png" width="1000"/>
 </div>
 
 The recipe used for this example is the following:
