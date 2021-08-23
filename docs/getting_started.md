@@ -54,7 +54,7 @@ And then:
 Following the steps above, the chart obtained will be:
 
 <div style="text-align:center">
-    <img src="images\getting_started\ChartObtained.png" width="850"/>
+    <img src="images\getting_started\ThermalGenGraph_v2.png" width="1000"/>
 </div>
 
 ## Using PSRIO to create new variables

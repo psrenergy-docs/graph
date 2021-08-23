@@ -27,5 +27,5 @@ Graph is the PSR`s graphing tool that is used to display outputs of SDDP.
 
 ### Support or Contact
 
-Having trouble with PSRIO? Contact our support team via `sddp@psr-inc.com` and we’ll help you sort it out.
+Having trouble with Graph? Contact our support team via `sddp@psr-inc.com` and we’ll help you sort it out.
 
