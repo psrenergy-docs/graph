@@ -1,7 +1,21 @@
-title: "Graph"
-remote_theme: pmarsceill/just-the-docs
-logo: https://www.psr-inc.com/wp-content/themes/psrNew/favicon.png
+title: "PSR Graph"
+remote_theme: psrenergy/just-the-docs
+logo: assets/images/psr_logo.png
+
+psr_model: "Graph"
+
+#adding zoom in images
+zoom_img_enabled: true
+
+#dark/light mode
+change_color_enabled: true
+color_scheme: "dark"
 
 aux_links:
-  "Graph documentation on GitHub":
-    - "https://github.com/psrenergy/graph-docs"
+  "PSRIO Docs":
+    - "https://psrenergy.github.io/psrio-scripts/"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: "Copyright &copy; 2021 PSR - <a href='https://www.psr-inc.com' target='_blank'>psr-inc.com</a>"
+© 2021 GitHub, Inc.
