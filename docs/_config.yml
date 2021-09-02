@@ -15,6 +15,21 @@ aux_links:
   "PSRIO Docs":
     - "https://psrenergy.github.io/psrio-scripts/"
 
+$body-background-color: #fff //$white;
+$sidebar-color: #F5F6FA; //$grey-lt-000;
+$border-color: #EEEBEE; //$grey-lt-100;
+$body-text-color: #5C5962; //$grey-dk-100;
+$body-heading-color: #27262B; //$grey-dk-300;
+$nav-child-link-color: #5C5962; //$grey-dk-100;
+$search-result-preview-color: #959396; //$grey-dk-000;
+$link-color: #7253ED; //$purple-000;
+$btn-primary-color: #5E41D0; //$purple-100;
+$base-button-color: #F7F7F7;
+$code-background-color: #F5F6FA; //$grey-lt-000;
+$search-background-color: $white;
+$table-background-color: $white;
+$feedback-color: darken($sidebar-color, 3%);
+
 back_to_top: true
 back_to_top_text: "Back to top"
 footer_content: "Copyright &copy; 2021 PSR - <a href='https://www.psr-inc.com' target='_blank'>psr-inc.com</a>"
