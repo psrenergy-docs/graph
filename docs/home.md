@@ -13,7 +13,7 @@ Graph is the PSR`s graphing tool that is used to display outputs of SDDP.
 ### Features
 
 * Quick graphing of outputs
-* Customizable outputs with PSRIO (see more of PSRIO at https://psrenergy.github.io/psrio-scripts/)
+* Customizable outputs with PSRIO (see more of PSRIO at [https://psrenergy.github.io/psrio-docs/](https://psrenergy.github.io/psrio-docs/))
 * Customizable charts
   * Chart type
   * Chart legend

@@ -11,9 +11,9 @@ zoom_img_enabled: true
 change_color_enabled: true
 color_scheme: "dark"
 
-aux_links:
-  "PSRIO Docs":
-    - "https://psrenergy.github.io/psrio-scripts/"
+#aux_links:
+#  "PSRIO Docs":
+#    - "https://psrenergy.github.io/psrio-docs/"
 
 back_to_top: true
 back_to_top_text: "Back to top"
