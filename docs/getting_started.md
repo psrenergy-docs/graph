@@ -21,19 +21,19 @@ For our first chart, let us suppose we are interested in visualizing the generat
 
 The steps are listed below:
 
- 1  Open Graph's interface
+ 1    Open Graph's interface
 
 <div style="text-align:center">
     <img src="images\getting_started\OpeningGraphInterface.png" width="500"/>
 </div>
 
- 2  Select the option to add new chart
+ 2    Select the option to add new chart
 
 <div style="text-align:center">
     <img src="images\getting_started\AddChart.png" width="350"/>
 </div>
 
- 1  Choose the variable and agents to be analyzed
+ 3    Choose the variable and agents to be analyzed
 
 <div style="text-align:center">
     <img src="images\getting_started\SelectVariable_v2.png" width="450"/>
@@ -45,7 +45,7 @@ And then:
     <img src="images\getting_started\SelectAgents.png" width="450"/>
 </div>
 
- 4  Configure the chart
+ 4    Configure the chart
 
 <div style="text-align:center">
     <img src="images\getting_started\MainChartConfigs.png" width="450"/>
@@ -63,13 +63,13 @@ Now, let us make some processing over the standard output data using PSRIO. In t
 
 The steps are listed below:
 
-1  Open PSRIO editor
+1    Open PSRIO editor
 
 <div style="text-align:center">
     <img src="images\getting_started\OpenPSRIO.png" width="400"/>
 </div>
 
-2  Write, save and run the script for the processing
+2    Write, save and run the script for the processing
 
 <div style="text-align:center">
     <img src="images\getting_started\RunPSRIO.png" width="450"/>
@@ -77,13 +77,13 @@ The steps are listed below:
 
 Note that we created a file named `total_gerter.csv`. `total_gerter` will be the name that we will have to search for when creating the chart. 
 
- 3  Select "Add chart" option and find custom variable
+ 3    Select "Add chart" option and find custom variable
 
 <div style="text-align:center">
     <img src="images\getting_started\FindCustomVariable.png" width="600"/>
 </div>
 
- 4  Configure the chart
+ 4    Configure the chart
 
 The final result looks like this:
 
